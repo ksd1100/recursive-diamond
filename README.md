@@ -1,2 +1,2 @@
-# recursive-diamond
+# Recursive Diamond
 Recursive Diamond Pattern Project
